@@ -1,4 +1,5 @@
 # Datenschutzrichtlinie für die App RateMyBuy
+*Stand: 21.09.2025*
 
 ## 1. Einleitung
 Wir freuen uns über dein Interesse an unserer App **RateMyBuy**.  
